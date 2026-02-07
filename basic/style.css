@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
+
+/* RESET CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*
+manggil id itu pakai #
+manggil class itu pakai .
+*/
+
+#a {
+  color: white;
+  background-color: black;
+  font-size: 50px;
+  font-family: "JetBrains Mono", monospace;
+}
+
+.text {
+  color: white;
+  background-color: black;
+  font-size: 150px;
+  font-family: "JetBrains Mono", monospace;
+}

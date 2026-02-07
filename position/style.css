@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #1e1e2e;
+  position: relative;
+}
+
+.kotak1 {
+  width: 250px;
+  height: 250px;
+  background-color: #fab387;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.kotak2 {
+  width: 250px;
+  height: 250px;
+  background-color: #fab387;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.kotak3 {
+  width: 250px;
+  height: 250px;
+  background-color: #fab387;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.kotak4 {
+  width: 250px;
+  height: 250px;
+  background-color: #fab387;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
