@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
+
+.jb-fonts {
+  font-family: "JetBrains Mono";
+}
+
+.neue-fonts {
+  font-family: "Bebas Neue";
+  font-weight: 400;
+  font-style: normal;
+}
